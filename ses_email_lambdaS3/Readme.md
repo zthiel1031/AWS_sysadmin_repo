@@ -28,7 +28,7 @@ To create a `policy` follow these steps:
 
 3. After clicking on create policy, select the `JSON` tab. Delete everything in the box and enter this code:
 
-```json
+```
 {
     "Version": "2012-10-17",
     "Statement": [
