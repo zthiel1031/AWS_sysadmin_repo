@@ -176,7 +176,6 @@ exports.handler = async function (event) {
  
   return ses.sendEmail(params).promise()
 };
-
 ```
 
 # Please note!
