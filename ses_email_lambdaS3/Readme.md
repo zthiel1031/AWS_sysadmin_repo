@@ -153,7 +153,7 @@ Under `Advanced settings` check the box `Enable Tags` and create tags for this f
 
 6. Click on `Code`. Replace the pre-existing code with this:
 
-```json
+```
 // Copyright 2019 Amazon.com, Inc. or its affiliates. All Rights Reserved.
 // SPDX-License-Identifier: Apache-2.0
 
